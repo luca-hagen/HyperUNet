@@ -1,5 +1,3 @@
-"# HyperUNet" 
-"# HyperUNet" 
-"# HyperUNet" 
-"# HyperUNet" 
-"# HyperUNet" 
+HyperUNet
+
+Official implementation details will follow soon.
